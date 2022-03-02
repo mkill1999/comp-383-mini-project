@@ -20,7 +20,7 @@ Download the python file and place it in your home directory. It can be run from
 * miniproject.log: Summary of assembly and annotation
 * predicted_functionality.csv: Best hit functionality matches for each predicted CDS
 
-# Test Data
+## Test Data
 The wrapper was tested using the accession 'SRR8185130'.
 
 
